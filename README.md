@@ -38,7 +38,7 @@ This repository contains the paper and statistical analysis evaluating whether *
 
 ## Repository Contents
 - `PAPER.pdf` — Full paper including methodology, results, diagnostics, and discussion  
-- `Appendix A` (in paper) — Complete R code used for analysis and figure generation
+- `heart_disease_logistic_regression.r` — R script containing the full data preprocessing, model fitting, diagnostics, and performance evaluation code
 
 ---
 
