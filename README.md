@@ -52,9 +52,3 @@ This repository contains the paper and statistical analysis evaluating whether *
 ## Author
 **Taher Alabbar**  
 December 2025
-
-
-Author
-
-Taher Alabbar
-December 2025
