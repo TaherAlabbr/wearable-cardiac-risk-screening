@@ -42,13 +42,6 @@ This repository contains the paper and statistical analysis evaluating whether *
 
 ---
 
-## Limitations
-- Based on clinical-grade measurements, not raw wearable sensor data
-- No cross-validation or external test set
-- Dataset reflects a small, clinically referred cohort
-
----
-
 ## Author
 **Taher Alabbar**  
 December 2025
